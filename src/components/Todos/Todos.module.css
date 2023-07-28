@@ -1,0 +1,26 @@
+.section{
+    background-color:wheat;
+}
+
+.container{
+    /* background-color: tomato; */
+    width: 60%;
+    margin: 3rem auto;
+}
+.addContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem auto;
+}
+.input{
+    padding: 1.5rem 3rem ;
+    width: 70%;
+
+}
+.add{
+    padding: 1.5rem 3rem;
+background-color: blue;
+flex: 1;
+}

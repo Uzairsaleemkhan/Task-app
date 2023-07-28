@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    flex-direction: column;
+}
+.listItem{
+    list-style: none;
+display: flex;
+justify-content: space-between;
+}
+
+
